@@ -51,7 +51,7 @@ OPEN TO       →  Learning, feedback, and collaboration
 ## GitHub activity
 
 <p>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=omworakarn-maker&hide_border=true&background=FFF8FA&ring=FF1919&fire=FF1919&currStreakLabel=202020&sideLabels=202020&dates=6B6466" alt="Worakan's contribution streak" />
+  <img height="160"-center src="https://github-readme-streak-stats.herokuapp.com?user=omworakarn-maker&hide_border=true&background=FFF8FA&ring=FF1919&fire=FF1919&currStreakLabel=202020&sideLabels=202020&dates=6B6466" alt="Worakan's contribution streak" />
 </p>
 
 ---
