@@ -2,7 +2,7 @@
 
 # WORAKAN PONGSEELAWAT
 
-**Developer · Designer · Creative**
+** Developer **
 
 <a href="https://github.com/omworakarn-maker">GitHub</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4">Figma</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="PORTFOLIO_URL">Portfolio</a>
 
@@ -31,7 +31,8 @@ OPEN TO       →  Learning, feedback, and collaboration
 | Todo List | Task management web application | [Live demo](https://todolist-green-tau.vercel.app/) · [Code](https://github.com/omworakarn-maker/todolist) |
 | Cafe Cat | Responsive cat-café website | [Live demo](https://cafecatdemowebsite.vercel.app/) · [Code](https://github.com/omworakarn-maker/cafecatdemowebsite) |
 | M Cat 031 | Mobile UI / interactive prototype | [Open in Figma](https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4) |
-| Go with us | Ios application native-ios by swift | [Not available](Not available) |
+| Go with us | Ios application native-ios by swift | [Not available]|
+| Portfolio | typescript Website | [Not available for github] [Website](https://worakan-portfolio1.vercel.app/about)|
 
 ## Core capabilities
 
@@ -50,7 +51,6 @@ OPEN TO       →  Learning, feedback, and collaboration
 ## GitHub activity
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=omworakarn-maker&show_icons=true&hide_border=true&title_color=ff1919&icon_color=ff1919&text_color=202020&bg_color=fff8fa" alt="Worakan's GitHub statistics" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=omworakarn-maker&hide_border=true&background=FFF8FA&ring=FF1919&fire=FF1919&currStreakLabel=202020&sideLabels=202020&dates=6B6466" alt="Worakan's contribution streak" />
 </p>
 
