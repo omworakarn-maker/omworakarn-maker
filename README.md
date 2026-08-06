@@ -6,7 +6,9 @@
 
 ** ✨ Developer & UI/UX Enthusiast ✨ **
 
-<a href="https://github.com/omworakarn-maker">GitHub</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4">Figma</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://worakan-portfolio1.vercel.app/about">Portfolio</a>
+<a href="https://github.com/omworakarn-maker"><img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4"><img src="https://img.shields.io/badge/Figma-89CFF0?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+<a href="https://worakan-portfolio1.vercel.app/about"><img src="https://img.shields.io/badge/Portfolio-FFD1DC?style=for-the-badge&logo=vercel&logoColor=gray" alt="Portfolio"></a>
 
 <br />
 
@@ -16,7 +18,7 @@
 
 ---
 
-## 🧸 About me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Teddy%20Bear.png" alt="Teddy Bear" width="35" height="35" align="center" /> About me
 
 I am an aspiring developer who loves bringing ideas to life with a touch of creativity. I care about making interfaces feel clear, useful, and delightful—from the first sketch to the final working experience! 🌸
 
@@ -26,7 +28,7 @@ I am an aspiring developer who loves bringing ideas to life with a touch of crea
 ✨ OPEN TO       →  Learning, feedback, and collaboration
 ```
 
-## 🐾 Selected work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" alt="Paw Prints" width="35" height="35" align="center" /> Selected work
 
 | Project | Focus | Explore |
 | :-- | :-- | :-- |
@@ -36,7 +38,7 @@ I am an aspiring developer who loves bringing ideas to life with a touch of crea
 | **Go with us** 🗺️ | iOS native application (Swift) | _In progress_ |
 | **Portfolio** 🎨 | TypeScript Website | [Visit Website](https://worakan-portfolio1.vercel.app/about) |
 
-## 🎨 Core capabilities
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="35" height="35" align="center" /> Core capabilities
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nextjs,nodejs,postgres,prisma,figma,git,github&perline=13&theme=light" alt="Skills: Java, JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, PostgreSQL, Prisma, Figma, Git and GitHub" />
@@ -53,10 +55,11 @@ I am an aspiring developer who loves bringing ideas to life with a touch of crea
 
 <br />
 
-## 📈 GitHub activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" height="35" align="center" /> GitHub activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=omworakarn-maker&hide_border=true&background=FFF0F5&ring=FFB6C1&fire=FF69B4&currStreakLabel=666666&sideLabels=666666&dates=888888" alt="Worakan's contribution streak" />
+  <img height="160" src="https://streak-stats.demolab.com?user=omworakarn-maker&hide_border=true&background=FFF0F5&ring=FFB6C1&fire=FF69B4&currStreakLabel=666666&sideLabels=666666&dates=888888" alt="Worakan's contribution streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=omworakarn-maker&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=89CFF0&text_color=666666&bg_color=FFF0F5" alt="Worakan's GitHub stats" />
 </div>
 
 ---
