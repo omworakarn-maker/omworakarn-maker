@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=200&section=header&text=Hello,%20I'm%20Worakan!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20creative%20space%20%E2%9C%A8&descAlignY=58&descAlign=62&descSize=20" alt="header"/>
 
-# 🎀 Worakan Pongseelawat 🎀
+#  Worakan Pongseelawat 
 
 ** ✨ Developer & UI/UX Enthusiast ✨ **
 
@@ -18,7 +18,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Teddy%20Bear.png" alt="Teddy Bear" width="35" height="35" align="center" /> About me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="35" height="35" align="center" /> About me
 
 I am an aspiring developer who loves bringing ideas to life with a touch of creativity. I care about making interfaces feel clear, useful, and delightful—from the first sketch to the final working experience! 🌸
 
@@ -55,7 +55,7 @@ I am an aspiring developer who loves bringing ideas to life with a touch of crea
 
 <br />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" height="35" align="center" /> GitHub activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing%20with%20Yen.png" alt="Chart Increasing" width="35" height="35" align="center" /> GitHub activity
 
 <div align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=omworakarn-maker&hide_border=true&background=FFF0F5&ring=FFB6C1&fire=FF69B4&currStreakLabel=666666&sideLabels=666666&dates=888888" alt="Worakan's contribution streak" />
