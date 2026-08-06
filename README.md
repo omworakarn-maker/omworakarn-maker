@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Hello,%20I'm%20Worakan!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20creative%20space%20%E2%9C%A8&descAlignY=58&descAlign=62&descSize=20" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=200&section=header&text=Hello,%20I'm%20Worakan!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20creative%20space%20%E2%9C%A8&descAlignY=58&descAlign=62&descSize=20" alt="header"/>
 
 # 🎀 Worakan Pongseelawat 🎀
 
