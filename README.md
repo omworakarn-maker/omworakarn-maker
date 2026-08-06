@@ -1,65 +1,70 @@
 <div align="center">
 
-# WORAKAN PONGSEELAWAT
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Hello,%20I'm%20Worakan!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20creative%20space%20%E2%9C%A8&descAlignY=58&descAlign=62&descSize=20" alt="header"/>
 
-** Developer **
+# 🎀 Worakan Pongseelawat 🎀
 
-<a href="https://github.com/omworakarn-maker">GitHub</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4">Figma</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="PORTFOLIO_URL">Portfolio</a>
+** ✨ Developer & UI/UX Enthusiast ✨ **
+
+<a href="https://github.com/omworakarn-maker">GitHub</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4">Figma</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://worakan-portfolio1.vercel.app/about">Portfolio</a>
 
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=17&pause=1000&color=FF1919&center=true&vCenter=true&width=600&lines=Building%2C+learning%2C+and+improving.;Turning+ideas+into+useful+digital+experiences." alt="Animated introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=20&pause=1000&color=FF8DA1&center=true&vCenter=true&width=600&lines=Building+with+love+and+code+~;Crafting+cute+experiences+!;Always+learning+new+things+~" alt="Animated introduction" />
 
 </div>
 
 ---
 
-## About me
+## 🧸 About me
 
-I am an aspiring developer who enjoys learning through hands-on projects. I care about making interfaces feel clear, useful, and enjoyable—from the first idea through to a working experience.
+I am an aspiring developer who loves bringing ideas to life with a touch of creativity. I care about making interfaces feel clear, useful, and delightful—from the first sketch to the final working experience! 🌸
 
 ```text
-NOW LEARNING  →  Next.js · UI/UX design · SwiftUI
-CURRENTLY     →  Building projects and improving one step at a time
-OPEN TO       →  Learning, feedback, and collaboration
+🌱 NOW LEARNING  →  Next.js · UI/UX design · SwiftUI
+🛠️ CURRENTLY     →  Building projects and improving one step at a time
+✨ OPEN TO       →  Learning, feedback, and collaboration
 ```
 
-## Selected work
+## 🐾 Selected work
 
 | Project | Focus | Explore |
 | :-- | :-- | :-- |
-| Todo List | Task management web application | [Live demo](https://todolist-green-tau.vercel.app/) · [Code](https://github.com/omworakarn-maker/todolist) |
-| Cafe Cat | Responsive cat-café website | [Live demo](https://cafecatdemowebsite.vercel.app/) · [Code](https://github.com/omworakarn-maker/cafecatdemowebsite) |
-| M Cat 031 | Mobile UI / interactive prototype | [Open in Figma](https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4) |
-| Go with us | Ios application native-ios by swift | [Not available]|
-| Portfolio | typescript Website | [Not available for github] [Website](https://worakan-portfolio1.vercel.app/about)|
+| **Todo List** 📋 | Task management web application | [Live demo](https://todolist-green-tau.vercel.app/) · [Code](https://github.com/omworakarn-maker/todolist) |
+| **Cafe Cat** ☕🐈 | Responsive cat-café website | [Live demo](https://cafecatdemowebsite.vercel.app/) · [Code](https://github.com/omworakarn-maker/cafecatdemowebsite) |
+| **M Cat 031** 📱 | Mobile UI / interactive prototype | [Open in Figma](https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4) |
+| **Go with us** 🗺️ | iOS native application (Swift) | _In progress_ |
+| **Portfolio** 🎨 | TypeScript Website | [Visit Website](https://worakan-portfolio1.vercel.app/about) |
 
-## Core capabilities
+## 🎨 Core capabilities
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nextjs,nodejs,postgres,prisma,figma,git,github&perline=13" alt="Skills: Java, JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, PostgreSQL, Prisma, Figma, Git and GitHub" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nextjs,nodejs,postgres,prisma,figma,git,github&perline=13&theme=light" alt="Skills: Java, JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, PostgreSQL, Prisma, Figma, Git and GitHub" />
+</div>
+<br />
 
-<p>
-  <code>Responsive UI</code>
-  <code>UI Design</code>
-  <code>Prototyping</code>
-  <code>REST APIs</code>
-  <code>CSS Animation</code>
-</p>
+<div align="center">
+  <code>🌸 Responsive UI</code>
+  <code>🎀 UI Design</code>
+  <code>🧸 Prototyping</code>
+  <code>☁️ REST APIs</code>
+  <code>✨ CSS Animation</code>
+</div>
 
-## GitHub activity
+<br />
 
-<p>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=omworakarn-maker&hide_border=true&background=FFF8FA&ring=FF1919&fire=FF1919&currStreakLabel=202020&sideLabels=202020&dates=6B6466" alt="Worakan's contribution streak" />
-</p>
+## 📈 GitHub activity
+
+<div align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=omworakarn-maker&hide_border=true&background=FFF0F5&ring=FFB6C1&fire=FF69B4&currStreakLabel=666666&sideLabels=666666&dates=888888" alt="Worakan's contribution streak" />
+</div>
 
 ---
 
 <div align="center">
 
-**✳ Keep the conversation moving. ✳**
+**☁️ Let's create something beautiful together! ☁️**
 
-<sub>Available for learning opportunities and thoughtful collaborations.</sub>
+<sub>Available for learning opportunities and thoughtful collaborations. 💌</sub>
 
 </div>
