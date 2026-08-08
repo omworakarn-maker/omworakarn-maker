@@ -20,10 +20,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="35" height="35" align="center" /> About me
 
-Hello! I'm Worakan Pongseelawat, a Computer Science student at the Faculty of Science and Technology, [Rajamangala University of Technology Suvarnabhumi (RMUTSB)](https://rmutsb.ac.th/en). I am deeply passionate about **Frontend Development** and **UI/UX Design**. I specialize in building responsive web applications and crafting intuitive, user-centric interfaces. My projects focus on translating creative ideas from design tools like Figma into fully functional, delightful digital experiences using modern web technologies! 🌸
+Hello! I'm Worakan Pongseelawat, a Computer Science student at the Faculty of Science and Technology, [Rajamangala University of Technology Suvarnabhumi (RMUTSB)](https://rmutsb.ac.th/en). I am deeply passionate about **Frontend Development**. I specialize in building responsive, fully functional, and user-friendly web applications using modern technologies like React, Next.js, and TypeScript! 🌸
 
 ```text
-🌱 NOW LEARNING  →  Next.js · UI/UX design · SwiftUI
+🌱 NOW LEARNING  →  Next.js · Web Development · SwiftUI
 🛠️ CURRENTLY     →  Building projects and improving one step at a time
 ✨ OPEN TO       →  Learning, feedback, and collaboration
 ```
@@ -46,9 +46,9 @@ Hello! I'm Worakan Pongseelawat, a Computer Science student at the Faculty of Sc
 <br />
 
 <div align="center">
-  <code>🌸 Responsive UI</code>
-  <code>🎀 UI Design</code>
-  <code>🧸 Prototyping</code>
+  <code>🌸 Responsive Web</code>
+  <code>🎀 Frontend Dev</code>
+  <code>🧸 Web Apps</code>
   <code>☁️ REST APIs</code>
   <code>✨ CSS Animation</code>
 </div>
