@@ -4,7 +4,9 @@
 
 #  Worakan Pongseelawat 
 
-* ✨ Developer ✨ 
+<div align="center">  
+✨ Developer ✨ 
+</div>
 
 <a href="https://github.com/omworakarn-maker"><img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://worakan-portfolio1.vercel.app/about"><img src="https://img.shields.io/badge/Portfolio-FFD1DC?style=for-the-badge&logo=vercel&logoColor=gray" alt="Portfolio"></a>
