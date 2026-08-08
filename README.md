@@ -4,7 +4,7 @@
 
 #  Worakan Pongseelawat 
 
-** ✨ Developer & UI/UX Enthusiast ✨ **
+* ✨ Developer ✨ *
 
 <a href="https://github.com/omworakarn-maker"><img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4"><img src="https://img.shields.io/badge/Figma-89CFF0?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
@@ -20,7 +20,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="35" height="35" align="center" /> About me
 
-I am an aspiring developer who loves bringing ideas to life with a touch of creativity. I care about making interfaces feel clear, useful, and delightful—from the first sketch to the final working experience! 🌸
+Hello! I'm Worakan Pongseelawat, a Computer Science student at the Faculty of Science and Technology, [Rajamangala University of Technology Suvarnabhumi (RMUTSB)](https://rmutsb.ac.th/en). I am deeply passionate about **Frontend Development** and **UI/UX Design**. I specialize in building responsive web applications and crafting intuitive, user-centric interfaces. My projects focus on translating creative ideas from design tools like Figma into fully functional, delightful digital experiences using modern web technologies! 🌸
 
 ```text
 🌱 NOW LEARNING  →  Next.js · UI/UX design · SwiftUI
