@@ -30,13 +30,17 @@ Hello! I'm Worakan Pongseelawat, a Computer Science student at the Faculty of Sc
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" alt="Paw Prints" width="35" height="35" align="center" /> Selected work
 
+<div align="center">
+
 | Project | Focus | Explore |
-| :-- | :-- | :-- |
+| :---: | :---: | :---: |
 | **Todo List** 📋 | Task management web application | [Live demo](https://todolist-green-tau.vercel.app/) · [Code](https://github.com/omworakarn-maker/todolist) |
 | **Cafe Cat** ☕🐈 | Responsive cat-café website | [Live demo](https://cafecatdemowebsite.vercel.app/) · [Code](https://github.com/omworakarn-maker/cafecatdemowebsite) |
 | **M Cat 031** 📱 | Mobile UI / interactive prototype | [Open in Figma](https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4) |
 | **Go with us** 🗺️ | iOS native application (Swift) | _In progress_ |
 | **Portfolio** 🎨 | TypeScript Website | [Visit Website](https://worakan-portfolio1.vercel.app/about) |
+
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="35" height="35" align="center" /> Core capabilities
 
