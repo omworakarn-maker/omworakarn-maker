@@ -5,7 +5,9 @@
 #  Worakan Pongseelawat 
 
 <div align="center">  
+
 ✨ Developer ✨ 
+
 </div>
 
 <a href="https://github.com/omworakarn-maker"><img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -35,6 +37,7 @@ Hello! I'm Worakan Pongseelawat, a Computer Science student at the Faculty of Sc
 
 | Project | Focus | Explore |
 | :---: | :---: | :---: |
+| **Project A** | — | _In progress_ |
 | **Todo List** 📋 | Task management web application | [Live demo](https://todolist-green-tau.vercel.app/) · [Code](https://github.com/omworakarn-maker/todolist) |
 | **Cafe Cat** ☕🐈 | Responsive cat-café website | [Live demo](https://cafecatdemowebsite.vercel.app/) · [Code](https://github.com/omworakarn-maker/cafecatdemowebsite) |
 | **M Cat 031** 📱 | Mobile UI / interactive prototype | [Open in Figma](https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4) |
