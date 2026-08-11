@@ -67,7 +67,7 @@ Hello! I'm Worakan Pongseelawat, a Computer Science student at the Faculty of Sc
 
 <div align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=omworakarn-maker&hide_border=true&background=FFF0F5&ring=FFB6C1&fire=FF69B4&currStreakLabel=666666&sideLabels=666666&dates=888888" alt="Worakan's contribution streak" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omworakarn-maker&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=89CFF0&text_color=666666&bg_color=FFF0F5" alt="Worakan's GitHub stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omworakarn-maker&theme=default" alt="Worakan's GitHub stats" />
 </div>
 
 ---
