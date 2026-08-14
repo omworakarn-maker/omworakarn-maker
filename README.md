@@ -53,16 +53,6 @@ Hello! I'm Worakan Pongseelawat, a Computer Science student at the Faculty of Sc
 </div>
 <br />
 
-<div align="center">
-  <code>🌸 Responsive Web</code>
-  <code>🎀 Frontend Dev</code>
-  <code>🧸 Web Apps</code>
-  <code>☁️ REST APIs</code>
-  <code>✨ CSS Animation</code>
-</div>
-
-<br />
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing%20with%20Yen.png" alt="Chart Increasing" width="35" height="35" align="center" /> GitHub activity
 
 <div align="center">
