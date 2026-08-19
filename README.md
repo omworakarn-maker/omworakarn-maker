@@ -2,20 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=200&section=header&text=Hello,%20I'm%20Worakan!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20modern%20frontend%20experiences%20%E2%9C%A8&descAlignY=58&descAlign=62&descSize=20" alt="header"/>
 
-#  Worakan Pongseelawat 
-
-<div align="center">  
-
-✨ Developer ✨ 
-
-</div>
+### Frontend Developer · Computer Science Student
 
 <a href="https://github.com/omworakarn-maker"><img src="https://img.shields.io/badge/GitHub-89CFF0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://worakan-portfolio1.vercel.app/about"><img src="https://img.shields.io/badge/Portfolio-89CFF0?style=for-the-badge&logo=vercel&logoColor=gray" alt="Portfolio"></a>
 
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=20&pause=1000&color=FF8DA1&center=true&vCenter=true&width=600&lines=Building+with+love+and+code+~;Crafting+cute+experiences+!;Always+learning+new+things+~" alt="Animated introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=20&pause=1000&color=FF8DA1&center=true&vCenter=true&width=650&lines=Turning+ideas+into+responsive+websites+%E2%9C%A8;Building+with+React%2C+Next.js+%26+TypeScript+%F0%9F%92%BB;Learning%2C+creating%2C+and+growing+every+day+%F0%9F%8C%B1" alt="Animated introduction" />
 
 </div>
 
@@ -23,26 +17,36 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="35" height="35" align="center" /> About me
 
-Hello! I'm Worakan Pongseelawat, a Computer Science student at the Faculty of Science and Technology, [Rajamangala University of Technology Suvarnabhumi (RMUTSB)](https://rmutsb.ac.th/en). I am deeply passionate about **Frontend Development**. I specialize in building responsive, fully functional, and user-friendly web applications using modern technologies like React, Next.js, and TypeScript! 🌸
+Hello! I'm **Worakan Pongseelawat**, a Computer Science student at the Faculty of Science and Technology, [Rajamangala University of Technology Suvarnabhumi (RMUTSB)](https://rmutsb.ac.th/en). I enjoy turning ideas into responsive, functional, and friendly web applications using React, Next.js, and TypeScript. 🌸
 
 ```text
-🌱 NOW LEARNING  →  Next.js · Web Development · SwiftUI
-🛠️ CURRENTLY     →  Building projects and improving one step at a time
-✨ OPEN TO       →  Learning, feedback, and collaboration
+🌱 NOW LEARNING  →  Next.js · TypeScript · SwiftUI
+🛠️ CURRENTLY     →  Building frontend projects one step at a time
+✨ OPEN TO        →  Internships · Learning · Collaboration
 ```
+
+<details>
+<summary><b>🐻 A little more about me</b></summary>
+<br />
+
+- I love building polished, responsive web experiences.
+- I learn best by turning new ideas into real projects.
+- My current goal is to grow into a confident frontend developer.
+
+</details>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" alt="Paw Prints" width="35" height="35" align="center" /> Selected work
 
 <div align="center">
 
-| Project | Focus | Explore |
-| :---: | :---: | :---: |
-| **Project A** | — | _In progress_ |
-| **Todo List** 📋 | Task management web application | [Live demo](https://todolist-green-tau.vercel.app/) · [Code](https://github.com/omworakarn-maker/todolist) |
-| **Cafe Cat** ☕🐈 | Responsive cat-café website | [Live demo](https://cafecatdemowebsite.vercel.app/) · [Code](https://github.com/omworakarn-maker/cafecatdemowebsite) |
-| **M Cat 031** 📱 | Mobile UI / interactive prototype | [Open in Figma](https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4) |
-| **Go with us** 🗺️ | iOS native application (Swift) | _In progress_ |
-| **Portfolio** 🎨 | TypeScript Website | [Visit Website](https://worakan-portfolio1.vercel.app/about) |
+| Project | Built with | Status & links |
+| :--- | :---: | :---: |
+| **Project A** ✨ | Coming soon | ![In progress](https://img.shields.io/badge/In_progress-89CFF0?style=flat-square) |
+| **Todo List** 📋 | Web application | [![Live](https://img.shields.io/badge/Live-FF8DA1?style=flat-square&logo=vercel&logoColor=white)](https://todolist-green-tau.vercel.app/) [![Code](https://img.shields.io/badge/Code-89CFF0?style=flat-square&logo=github&logoColor=white)](https://github.com/omworakarn-maker/todolist) |
+| **Cafe Cat** ☕🐈 | Responsive website | [![Live](https://img.shields.io/badge/Live-FF8DA1?style=flat-square&logo=vercel&logoColor=white)](https://cafecatdemowebsite.vercel.app/) [![Code](https://img.shields.io/badge/Code-89CFF0?style=flat-square&logo=github&logoColor=white)](https://github.com/omworakarn-maker/cafecatdemowebsite) |
+| **M Cat 031** 📱 | Interactive prototype | [![Figma](https://img.shields.io/badge/Open-F9A8C4?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4) |
+| **Go with us** 🗺️ | Swift | ![In progress](https://img.shields.io/badge/In_progress-89CFF0?style=flat-square) |
+| **Portfolio** 🎨 | TypeScript | [![Visit](https://img.shields.io/badge/Visit-FF8DA1?style=flat-square&logo=vercel&logoColor=white)](https://worakan-portfolio1.vercel.app/about) |
 
 </div>
 
@@ -52,6 +56,12 @@ Hello! I'm Worakan Pongseelawat, a Computer Science student at the Faculty of Sc
   <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nextjs,nodejs,postgres,prisma,figma,git,github&perline=13&theme=light" alt="Skills: Java, JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, PostgreSQL, Prisma, Figma, Git and GitHub" />
 </div>
 <br />
+
+<div align="center">
+
+`Frontend` · `Responsive Web` · `REST APIs` · `Database` · `Git Workflow`
+
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing%20with%20Yen.png" alt="Chart Increasing" width="35" height="35" align="center" /> GitHub activity
 
@@ -67,5 +77,9 @@ Hello! I'm Worakan Pongseelawat, a Computer Science student at the Faculty of Sc
 **☁️ Let's create something beautiful together! ☁️**
 
 <sub>Available for learning opportunities and thoughtful collaborations. 💌</sub>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
