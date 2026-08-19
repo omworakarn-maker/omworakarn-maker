@@ -50,14 +50,23 @@ Hello! I'm **Worakan Pongseelawat**, a Computer Science student at the Faculty o
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="35" height="35" align="center" /> Core capabilities
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="35" height="35" align="center" /> Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nextjs,nodejs,postgres,prisma,figma,git,github&perline=13&theme=light" alt="Skills: Java, JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, PostgreSQL, Prisma, Figma, Git and GitHub" />
-</div>
-<br />
 
-<div align="center">
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=light" alt="Frontend: HTML, CSS, JavaScript, TypeScript, React and Next.js" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,java&theme=light" alt="Backend and Database: Node.js, PostgreSQL, Prisma, Supabase and Java" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma&theme=light" alt="Tools: Git, GitHub and Figma" />
+
+<br /><br />
 
 `Frontend` · `Responsive Web` · `REST APIs` · `Database` · `Git Workflow`
 
