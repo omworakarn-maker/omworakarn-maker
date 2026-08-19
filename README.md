@@ -75,8 +75,8 @@ Hello! I'm **Worakan Pongseelawat**, a Computer Science student at the Faculty o
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing%20with%20Yen.png" alt="Chart Increasing" width="35" height="35" align="center" /> GitHub activity
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=omworakarn-maker&hide_border=true&background=FFF0F5&ring=FFB6C1&fire=FF69B4&currStreakLabel=666666&sideLabels=666666&dates=888888" alt="Worakan's contribution streak" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omworakarn-maker&theme=default" alt="Worakan's GitHub stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=omworakarn-maker&hide_border=true&background=FFF0F5&ring=FFB6C1&fire=FF69B4&currStreakLabel=666666&sideLabels=666666&dates=888888&v=20260820" alt="Worakan's contribution streak" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omworakarn-maker&theme=default&v=20260820" alt="Worakan's GitHub stats" />
 </div>
 
 ---
