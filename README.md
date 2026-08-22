@@ -41,7 +41,7 @@ Hello! I'm **Worakan Pongseelawat**, a Computer Science student at the Faculty o
 
 | Project | Built with | Status & links |
 | :--- | :---: | :---: |
-| **Project A** ✨ | Coming soon | ![In progress](https://img.shields.io/badge/In_progress-89CFF0?style=flat-square) |
+| **Keep Going** ✨ | Coming soon | ![In progress](https://img.shields.io/badge/In_progress-89CFF0?style=flat-square) |
 | **Todo List** 📋 | Web application | [![Live](https://img.shields.io/badge/Live-FF8DA1?style=flat-square&logo=vercel&logoColor=white)](https://todolist-green-tau.vercel.app/) [![Code](https://img.shields.io/badge/Code-89CFF0?style=flat-square&logo=github&logoColor=white)](https://github.com/omworakarn-maker/todolist) |
 | **Cafe Cat** ☕🐈 | Responsive website | [![Live](https://img.shields.io/badge/Live-FF8DA1?style=flat-square&logo=vercel&logoColor=white)](https://cafecatdemowebsite.vercel.app/) [![Code](https://img.shields.io/badge/Code-89CFF0?style=flat-square&logo=github&logoColor=white)](https://github.com/omworakarn-maker/cafecatdemowebsite) |
 | **M Cat 031** 📱 | Interactive prototype | [![Figma](https://img.shields.io/badge/Open-F9A8C4?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4) |
