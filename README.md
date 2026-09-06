@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Hello, I'm Worakan! Frontend developer and computer science student — a cozy pastel corner with a friendly bear." />
+<img src="./assets/profile-header.svg" width="100%" alt="Hello, I'm Worakan! Frontend developer and computer science student — a charcoal and olive banner with a bear in a beanie." />
 
 <br />
 
-**Thoughtful interfaces, tiny details & a little everyday magic.** 🌷
+**Thoughtful design. Solid code.**
 
 Building friendly web experiences with React, Next.js and TypeScript.
 
-<a href="https://github.com/omworakarn-maker"><img src="https://img.shields.io/badge/GitHub-62483F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit my GitHub" /></a>
-<a href="https://worakan-portfolio1.vercel.app/about"><img src="https://img.shields.io/badge/My_Portfolio-F5DCE3?style=for-the-badge&amp;logo=vercel&amp;logoColor=62483F" alt="Visit my portfolio" /></a>
+<a href="https://github.com/omworakarn-maker"><img src="https://img.shields.io/badge/GitHub-1E2422?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit my GitHub" /></a>
+<a href="https://worakan-portfolio1.vercel.app/about"><img src="https://img.shields.io/badge/My_Portfolio-B5C791?style=for-the-badge&amp;logo=vercel&amp;logoColor=1E2422" alt="Visit my portfolio" /></a>
 
 <br />
 
@@ -21,18 +21,18 @@ Building friendly web experiences with React, Next.js and TypeScript.
 
 <a id="about-me"></a>
 
-<h2 align="center"><img src="./assets/heading-about.svg" width="267" alt="A little about me" /></h2>
+<h2 align="center"><img src="./assets/heading-about.svg" width="219" alt="About me" /></h2>
 
 Hello! I'm **Worakan Pongseelawat**, a Computer Science student at the Faculty of Science and Technology, [Rajamangala University of Technology Suvarnabhumi (RMUTSB)](https://rmutsb.ac.th/en).
 
 I enjoy turning ideas into **responsive, functional and friendly web applications**. My favorite way to learn is to build something real, pay attention to the small details, and make it a little better each day.
 
-| 🌱 Growing | 🪡 Creating | 💌 Open to |
+| Learning | Building | Open to |
 | :--- | :--- | :--- |
 | Learning Next.js, TypeScript & SwiftUI | Building frontend projects, one step at a time | Internships, learning & collaboration |
 
 <details>
-<summary><b>☁️ A few more things about me</b></summary>
+<summary><b>A few more things about me</b></summary>
 
 - I love building polished, responsive web experiences.
 - I learn best by turning new ideas into real projects.
@@ -46,7 +46,7 @@ I enjoy turning ideas into **responsive, functional and friendly web application
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/heading-work.svg" width="374" alt="Things I've been making" /></h2>
+<h2 align="center"><img src="./assets/heading-work.svg" width="282" alt="Selected work" /></h2>
 
 A small collection of websites, apps and ideas I'm bringing to life.
 
@@ -60,34 +60,34 @@ A small collection of websites, apps and ideas I'm bringing to life.
   </thead>
   <tbody>
     <tr>
-      <td align="center"><strong>Keep Going</strong> ✨</td>
+      <td align="center"><strong>Keep Going</strong></td>
       <td align="center">Coming soon</td>
-      <td align="center"><img src="https://img.shields.io/badge/In_progress-D6B5A0?style=flat-square" alt="In progress" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/In_progress-414A43?style=flat-square" alt="In progress" /></td>
     </tr>
     <tr>
-      <td align="center"><strong>Todo List</strong> 📋</td>
+      <td align="center"><strong>Todo List</strong></td>
       <td align="center">Web application</td>
-      <td align="center"><a href="https://todolist-green-tau.vercel.app/"><img src="https://img.shields.io/badge/Live-D993AD?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Live" /></a> <a href="https://github.com/omworakarn-maker/todolist"><img src="https://img.shields.io/badge/Code-D6B5A0?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Code" /></a></td>
+      <td align="center"><a href="https://todolist-green-tau.vercel.app/"><img src="https://img.shields.io/badge/Live-68755B?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Live" /></a> <a href="https://github.com/omworakarn-maker/todolist"><img src="https://img.shields.io/badge/Code-414A43?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Code" /></a></td>
     </tr>
     <tr>
-      <td align="center"><strong>Cafe Cat</strong> ☕🐈</td>
+      <td align="center"><strong>Cafe Cat</strong></td>
       <td align="center">Responsive website</td>
-      <td align="center"><a href="https://cafecatdemowebsite.vercel.app/"><img src="https://img.shields.io/badge/Live-D993AD?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Live" /></a> <a href="https://github.com/omworakarn-maker/cafecatdemowebsite"><img src="https://img.shields.io/badge/Code-D6B5A0?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Code" /></a></td>
+      <td align="center"><a href="https://cafecatdemowebsite.vercel.app/"><img src="https://img.shields.io/badge/Live-68755B?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Live" /></a> <a href="https://github.com/omworakarn-maker/cafecatdemowebsite"><img src="https://img.shields.io/badge/Code-414A43?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Code" /></a></td>
     </tr>
     <tr>
-      <td align="center"><strong>M Cat 031</strong> 📱</td>
+      <td align="center"><strong>M Cat 031</strong></td>
       <td align="center">Interactive prototype</td>
-      <td align="center"><a href="https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&amp;p=f&amp;t=rsnWPM2MoV8mV0UG-1&amp;scaling=scale-down&amp;content-scaling=fixed&amp;page-id=0%3A1&amp;starting-point-node-id=2%3A4"><img src="https://img.shields.io/badge/Open-D993AD?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" /></a></td>
+      <td align="center"><a href="https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&amp;p=f&amp;t=rsnWPM2MoV8mV0UG-1&amp;scaling=scale-down&amp;content-scaling=fixed&amp;page-id=0%3A1&amp;starting-point-node-id=2%3A4"><img src="https://img.shields.io/badge/Open-68755B?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" /></a></td>
     </tr>
     <tr>
-      <td align="center"><strong>Go with us</strong> 🗺️</td>
+      <td align="center"><strong>Go with us</strong></td>
       <td align="center">Swift</td>
-      <td align="center"><a href="https://github.com/omworakarn-maker/Go-With-Us"><img src="https://img.shields.io/badge/Code-D6B5A0?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Code" /></a></td>
+      <td align="center"><a href="https://github.com/omworakarn-maker/Go-With-Us"><img src="https://img.shields.io/badge/Code-414A43?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Code" /></a></td>
     </tr>
     <tr>
-      <td align="center"><strong>Portfolio</strong> 🎨</td>
+      <td align="center"><strong>Portfolio</strong></td>
       <td align="center">TypeScript</td>
-      <td align="center"><a href="https://worakan-portfolio1.vercel.app/about"><img src="https://img.shields.io/badge/Visit-D993AD?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Visit" /></a></td>
+      <td align="center"><a href="https://worakan-portfolio1.vercel.app/about"><img src="https://img.shields.io/badge/Visit-68755B?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Visit" /></a></td>
     </tr>
   </tbody>
 </table>
@@ -100,21 +100,21 @@ A small collection of websites, apps and ideas I'm bringing to life.
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/heading-toolbox.svg" width="263" alt="My little toolbox" /></h2>
+<h2 align="center"><img src="./assets/heading-toolbox.svg" width="247" alt="The toolbox" /></h2>
 
 The technologies I use to turn a blank canvas into something useful.
 
 ### Interfaces & interactions
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&amp;theme=light" alt="HTML, CSS, JavaScript, TypeScript, React and Next.js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React and Next.js" />
 
 ### Behind the scenes
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,java&amp;theme=light" alt="Node.js, PostgreSQL, Prisma, Supabase and Java" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,java&amp;theme=dark" alt="Node.js, PostgreSQL, Prisma, Supabase and Java" />
 
 ### From idea to shipped
 
-<img src="https://skillicons.dev/icons?i=git,github,figma&amp;theme=light" alt="Git, GitHub and Figma" />
+<img src="https://skillicons.dev/icons?i=git,github,figma&amp;theme=dark" alt="Git, GitHub and Figma" />
 
 <br />
 
@@ -126,13 +126,13 @@ The technologies I use to turn a blank canvas into something useful.
 
 <a id="github-activity"></a>
 
-<h2 align="center"><img src="./assets/heading-activity.svg" width="397" alt="Growing a little every day" /></h2>
+<h2 align="center"><img src="./assets/heading-activity.svg" width="303" alt="Always building" /></h2>
 
 Learning, experimenting and making progress, one commit at a time.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=omworakarn-maker&amp;hide_border=true&amp;background=FFF7EF&amp;ring=D993AD&amp;fire=C29A51&amp;currStreakLabel=62483F&amp;sideLabels=62483F&amp;currStreakNum=62483F&amp;sideNums=62483F&amp;dates=876B60" width="495" alt="Worakan's GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=omworakarn-maker&amp;hide_border=true&amp;background=F0EDE4&amp;ring=68755B&amp;fire=68755B&amp;currStreakLabel=1E2422&amp;sideLabels=1E2422&amp;currStreakNum=1E2422&amp;sideNums=1E2422&amp;dates=68755B" width="495" alt="Worakan's GitHub contribution streak" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omworakarn-maker&amp;theme=default" width="350" alt="Worakan's GitHub contribution statistics" />
 
@@ -146,16 +146,16 @@ Learning, experimenting and making progress, one commit at a time.
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/heading-hello.svg" width="438" alt="Let's make something lovely" /></h2>
+<h2 align="center"><img src="./assets/heading-hello.svg" width="352" alt="Let's work together" /></h2>
 
 I'm open to internships, learning opportunities and thoughtful collaborations.
 
-**Have a look around — I'm happy you're here.**
+**Have a project in mind? Let's build it.**
 
 [Explore my portfolio](https://worakan-portfolio1.vercel.app/about) · [Find me on GitHub](https://github.com/omworakarn-maker)
 
 <br />
 
-<img src="./assets/profile-footer.svg" width="100%" alt="Made with curiosity and a little love" />
+<img src="./assets/profile-footer.svg" width="100%" alt="Build with purpose. Keep moving." />
 
 </div>
