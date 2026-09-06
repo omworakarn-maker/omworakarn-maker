@@ -6,14 +6,14 @@
 
 **Thoughtful design. Solid code.**
 
-Building friendly web experiences with React, Next.js and TypeScript.
+I build websites with React, Next.js and TypeScript.
 
 <a href="https://github.com/omworakarn-maker"><img src="https://img.shields.io/badge/GitHub-1E2422?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit my GitHub" /></a>
 <a href="https://worakan-portfolio1.vercel.app/about"><img src="https://img.shields.io/badge/My_Portfolio-B5C791?style=for-the-badge&amp;logo=vercel&amp;logoColor=1E2422" alt="Visit my portfolio" /></a>
 
 <br />
 
-[About me](#about-me) · [Selected work](#selected-work) · [My toolbox](#my-toolbox) · [Activity](#github-activity) · [Say hello](#say-hello)
+[About me](#about-me) · [Projects](#selected-work) · [Tech stack](#my-toolbox) · [Activity](#github-activity) · [Contact](#say-hello)
 
 </div>
 
@@ -25,18 +25,18 @@ Building friendly web experiences with React, Next.js and TypeScript.
 
 Hello! I'm **Worakan Pongseelawat**, a Computer Science student at the Faculty of Science and Technology, [Rajamangala University of Technology Suvarnabhumi (RMUTSB)](https://rmutsb.ac.th/en).
 
-I enjoy turning ideas into **responsive, functional and friendly web applications**. My favorite way to learn is to build something real, pay attention to the small details, and make it a little better each day.
+I build **websites that are easy to use and work on any screen**. I learn by building projects and improving them along the way.
 
 | Learning | Building | Open to |
 | :--- | :--- | :--- |
-| Learning Next.js, TypeScript & SwiftUI | Building frontend projects, one step at a time | Internships, learning & collaboration |
+| Next.js, TypeScript & SwiftUI | Frontend projects | Internships & collaboration |
 
 <details>
-<summary><b>A few more things about me</b></summary>
+<summary><b>More about me</b></summary>
 
-- I love building polished, responsive web experiences.
-- I learn best by turning new ideas into real projects.
-- My current goal is to grow into a confident frontend developer.
+- I enjoy clean layouts and simple navigation.
+- I like trying new ideas in small projects.
+- My goal is to become a better frontend developer.
 
 </details>
 
@@ -46,15 +46,15 @@ I enjoy turning ideas into **responsive, functional and friendly web application
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/heading-work.svg" width="282" alt="Selected work" /></h2>
+<h2 align="center"><img src="./assets/heading-work.svg" width="196" alt="Projects" /></h2>
 
-A small collection of websites, apps and ideas I'm bringing to life.
+Websites, apps and prototypes I have worked on.
 
 <table align="center">
   <thead>
     <tr>
       <th align="center">Project</th>
-      <th align="center">Built with</th>
+      <th align="center">Type / technology</th>
       <th align="center">Status &amp; links</th>
     </tr>
   </thead>
@@ -100,29 +100,29 @@ A small collection of websites, apps and ideas I'm bringing to life.
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/heading-toolbox.svg" width="247" alt="The toolbox" /></h2>
+<h2 align="center"><img src="./assets/heading-toolbox.svg" width="235" alt="Tech stack" /></h2>
 
-The technologies I use to turn a blank canvas into something useful.
+Languages, frameworks and tools I use.
 
-### Interfaces & interactions
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React and Next.js" />
 
-### iOS development
+### iOS
 
 <img src="https://skillicons.dev/icons?i=swift&amp;theme=dark" alt="Swift" />
 
-### Behind the scenes
+### Backend & databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,java&amp;theme=dark" alt="Node.js, PostgreSQL, Prisma, Supabase and Java" />
 
-### From idea to shipped
+### Design & development tools
 
 <img src="https://skillicons.dev/icons?i=git,github,figma&amp;theme=dark" alt="Git, GitHub and Figma" />
 
 <br />
 
-**Things I care about** · Responsive layouts · Clear interactions · REST APIs · Databases · Git workflow
+**Focus areas:** Responsive websites · Easy-to-use interfaces · REST APIs · Databases · Version control
 
 </div>
 
@@ -130,9 +130,9 @@ The technologies I use to turn a blank canvas into something useful.
 
 <a id="github-activity"></a>
 
-<h2 align="center"><img src="./assets/heading-activity.svg" width="303" alt="Always building" /></h2>
+<h2 align="center"><img src="./assets/heading-activity.svg" width="294" alt="GitHub activity" /></h2>
 
-Learning, experimenting and making progress, one commit at a time.
+My commits and contributions on GitHub.
 
 <div align="center">
 
@@ -140,7 +140,7 @@ Learning, experimenting and making progress, one commit at a time.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omworakarn-maker&amp;theme=default" width="350" alt="Worakan's GitHub contribution statistics" />
 
-<sub>A peek at my coding journey. Activity cards update through external services.</sub>
+<sub>Stats are provided by external services.</sub>
 
 </div>
 
@@ -150,13 +150,13 @@ Learning, experimenting and making progress, one commit at a time.
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/heading-hello.svg" width="352" alt="Let's work together" /></h2>
+<h2 align="center"><img src="./assets/heading-hello.svg" width="195" alt="Contact" /></h2>
 
-I'm open to internships, learning opportunities and thoughtful collaborations.
+I'm open to internships and working on projects together.
 
 **Have a project in mind? Let's build it.**
 
-[Explore my portfolio](https://worakan-portfolio1.vercel.app/about) · [Find me on GitHub](https://github.com/omworakarn-maker)
+[View my portfolio](https://worakan-portfolio1.vercel.app/about) · [Find me on GitHub](https://github.com/omworakarn-maker)
 
 <br />
 
