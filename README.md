@@ -108,6 +108,10 @@ The technologies I use to turn a blank canvas into something useful.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React and Next.js" />
 
+### iOS development
+
+<img src="https://skillicons.dev/icons?i=swift&amp;theme=dark" alt="Swift" />
+
 ### Behind the scenes
 
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,java&amp;theme=dark" alt="Node.js, PostgreSQL, Prisma, Supabase and Java" />
