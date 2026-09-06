@@ -44,7 +44,7 @@ I enjoy turning ideas into **responsive, functional and friendly web application
 
 <a id="selected-work"></a>
 
-## 🌷 Things I've been making
+<h2 align="center">🌷 Things I've been making</h2>
 
 A small collection of websites, apps and ideas I'm bringing to life.
 
@@ -61,7 +61,7 @@ A small collection of websites, apps and ideas I'm bringing to life.
 
 <a id="my-toolbox"></a>
 
-## 🎨 My little toolbox
+<h2 align="center">🎨 My little toolbox</h2>
 
 The technologies I use to turn a blank canvas into something useful.
 
