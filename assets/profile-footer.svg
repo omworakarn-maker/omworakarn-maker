@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-labelledby="title">
+  <title id="title">Made with curiosity and a little love</title>
+  <rect width="1200" height="110" rx="24" fill="#fff7ef"/>
+  <path d="M0 74Q150 34 300 74T600 74T900 74T1200 74V110H0Z" fill="#f5dce3"/>
+  <text x="600" y="48" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="16" fill="#62483f" letter-spacing="2">MADE WITH CURIOSITY &amp; A LITTLE LOVE</text>
+</svg>

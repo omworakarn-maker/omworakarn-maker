@@ -1,33 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=200&section=header&text=Hello,%20I'm%20Worakan!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20modern%20frontend%20experiences%20%E2%9C%A8&descAlignY=58&descAlign=62&descSize=20" alt="header"/>
-
-### Frontend Developer · Computer Science Student
-
-<a href="https://github.com/omworakarn-maker"><img src="https://img.shields.io/badge/GitHub-89CFF0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://worakan-portfolio1.vercel.app/about"><img src="https://img.shields.io/badge/Portfolio-89CFF0?style=for-the-badge&logo=vercel&logoColor=gray" alt="Portfolio"></a>
+<img src="./assets/profile-header.svg" width="100%" alt="Hello, I'm Worakan! Frontend developer and computer science student — a cozy pastel corner with a friendly bear." />
 
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=20&pause=1000&color=FF8DA1&center=true&vCenter=true&width=650&lines=Turning+ideas+into+responsive+websites+%E2%9C%A8;Building+with+React%2C+Next.js+%26+TypeScript+%F0%9F%92%BB;Learning%2C+creating%2C+and+growing+every+day+%F0%9F%8C%B1" alt="Animated introduction" />
+**Thoughtful interfaces, tiny details & a little everyday magic.** 🌷
+
+Building friendly web experiences with React, Next.js and TypeScript.
+
+<a href="https://github.com/omworakarn-maker"><img src="https://img.shields.io/badge/GitHub-62483F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit my GitHub" /></a>
+<a href="https://worakan-portfolio1.vercel.app/about"><img src="https://img.shields.io/badge/My_Portfolio-F5DCE3?style=for-the-badge&amp;logo=vercel&amp;logoColor=62483F" alt="Visit my portfolio" /></a>
+
+<br />
+
+[About me](#about-me) · [Selected work](#selected-work) · [My toolbox](#my-toolbox) · [Activity](#github-activity) · [Say hello](#say-hello)
 
 </div>
 
----
+<br />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="35" height="35" align="center" /> About me
+<a id="about-me"></a>
 
-Hello! I'm **Worakan Pongseelawat**, a Computer Science student at the Faculty of Science and Technology, [Rajamangala University of Technology Suvarnabhumi (RMUTSB)](https://rmutsb.ac.th/en). I enjoy turning ideas into responsive, functional, and friendly web applications using React, Next.js, and TypeScript. 🌸
+## 🧸 A little about me
 
-```text
-🌱 NOW LEARNING  →  Next.js · TypeScript · SwiftUI
-🛠️ CURRENTLY     →  Building frontend projects one step at a time
-✨ OPEN TO        →  Internships · Learning · Collaboration
-```
+Hello! I'm **Worakan Pongseelawat**, a Computer Science student at the Faculty of Science and Technology, [Rajamangala University of Technology Suvarnabhumi (RMUTSB)](https://rmutsb.ac.th/en).
+
+I enjoy turning ideas into **responsive, functional and friendly web applications**. My favorite way to learn is to build something real, pay attention to the small details, and make it a little better each day.
+
+| 🌱 Growing | 🪡 Creating | 💌 Open to |
+| :--- | :--- | :--- |
+| Learning Next.js, TypeScript & SwiftUI | Building frontend projects, one step at a time | Internships, learning & collaboration |
 
 <details>
-<summary><b>🐻 A little more about me</b></summary>
-<br />
+<summary><b>☁️ A few more things about me</b></summary>
 
 - I love building polished, responsive web experiences.
 - I learn best by turning new ideas into real projects.
@@ -35,58 +40,81 @@ Hello! I'm **Worakan Pongseelawat**, a Computer Science student at the Faculty o
 
 </details>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" alt="Paw Prints" width="35" height="35" align="center" /> Selected work
+<br />
 
-<div align="center">
+<a id="selected-work"></a>
+
+## 🌷 Things I've been making
+
+A small collection of websites, apps and ideas I'm bringing to life.
 
 | Project | Built with | Status & links |
 | :--- | :---: | :---: |
-| **Keep Going** ✨ | Coming soon | ![In progress](https://img.shields.io/badge/In_progress-89CFF0?style=flat-square) |
-| **Todo List** 📋 | Web application | [![Live](https://img.shields.io/badge/Live-FF8DA1?style=flat-square&logo=vercel&logoColor=white)](https://todolist-green-tau.vercel.app/) [![Code](https://img.shields.io/badge/Code-89CFF0?style=flat-square&logo=github&logoColor=white)](https://github.com/omworakarn-maker/todolist) |
-| **Cafe Cat** ☕🐈 | Responsive website | [![Live](https://img.shields.io/badge/Live-FF8DA1?style=flat-square&logo=vercel&logoColor=white)](https://cafecatdemowebsite.vercel.app/) [![Code](https://img.shields.io/badge/Code-89CFF0?style=flat-square&logo=github&logoColor=white)](https://github.com/omworakarn-maker/cafecatdemowebsite) |
-| **M Cat 031** 📱 | Interactive prototype | [![Figma](https://img.shields.io/badge/Open-F9A8C4?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4) |
-| **Go with us** 🗺️ | Swift | [![Code](https://img.shields.io/badge/Code-89CFF0?style=flat-square&logo=github&logoColor=white)](https://github.com/omworakarn-maker/Go-With-Us) |
-| **Portfolio** 🎨 | TypeScript | [![Visit](https://img.shields.io/badge/Visit-FF8DA1?style=flat-square&logo=vercel&logoColor=white)](https://worakan-portfolio1.vercel.app/about) |
+| **Keep Going** ✨ | Coming soon | ![In progress](https://img.shields.io/badge/In_progress-D6B5A0?style=flat-square) |
+| **Todo List** 📋 | Web application | [![Live](https://img.shields.io/badge/Live-D993AD?style=flat-square&logo=vercel&logoColor=white)](https://todolist-green-tau.vercel.app/) [![Code](https://img.shields.io/badge/Code-D6B5A0?style=flat-square&logo=github&logoColor=white)](https://github.com/omworakarn-maker/todolist) |
+| **Cafe Cat** ☕🐈 | Responsive website | [![Live](https://img.shields.io/badge/Live-D993AD?style=flat-square&logo=vercel&logoColor=white)](https://cafecatdemowebsite.vercel.app/) [![Code](https://img.shields.io/badge/Code-D6B5A0?style=flat-square&logo=github&logoColor=white)](https://github.com/omworakarn-maker/cafecatdemowebsite) |
+| **M Cat 031** 📱 | Interactive prototype | [![Figma](https://img.shields.io/badge/Open-D993AD?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4) |
+| **Go with us** 🗺️ | Swift | [![Code](https://img.shields.io/badge/Code-D6B5A0?style=flat-square&logo=github&logoColor=white)](https://github.com/omworakarn-maker/Go-With-Us) |
+| **Portfolio** 🎨 | TypeScript | [![Visit](https://img.shields.io/badge/Visit-D993AD?style=flat-square&logo=vercel&logoColor=white)](https://worakan-portfolio1.vercel.app/about) |
 
-</div>
+<br />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="35" height="35" align="center" /> Tech stack
+<a id="my-toolbox"></a>
+
+## 🎨 My little toolbox
+
+The technologies I use to turn a blank canvas into something useful.
+
+### Interfaces & interactions
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&amp;theme=light" alt="HTML, CSS, JavaScript, TypeScript, React and Next.js" />
+
+### Behind the scenes
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,java&amp;theme=light" alt="Node.js, PostgreSQL, Prisma, Supabase and Java" />
+
+### From idea to shipped
+
+<img src="https://skillicons.dev/icons?i=git,github,figma&amp;theme=light" alt="Git, GitHub and Figma" />
+
+<br />
+
+**Things I care about** · Responsive layouts · Clear interactions · REST APIs · Databases · Git workflow
+
+<br />
+
+<a id="github-activity"></a>
+
+## 🌱 Growing a little every day
+
+Learning, experimenting and making progress, one commit at a time.
 
 <div align="center">
 
-### Frontend
+<img src="https://streak-stats.demolab.com?user=omworakarn-maker&amp;hide_border=true&amp;background=FFF7EF&amp;ring=D993AD&amp;fire=C29A51&amp;currStreakLabel=62483F&amp;sideLabels=62483F&amp;currStreakNum=62483F&amp;sideNums=62483F&amp;dates=876B60" width="495" alt="Worakan's GitHub contribution streak" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=light" alt="Frontend: HTML, CSS, JavaScript, TypeScript, React and Next.js" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omworakarn-maker&amp;theme=default" width="350" alt="Worakan's GitHub contribution statistics" />
 
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,java&theme=light" alt="Backend and Database: Node.js, PostgreSQL, Prisma, Supabase and Java" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,figma&theme=light" alt="Tools: Git, GitHub and Figma" />
-
-<br /><br />
-
-`Frontend` · `Responsive Web` · `REST APIs` · `Database` · `Git Workflow`
+<sub>A peek at my coding journey. Activity cards update through external services.</sub>
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing%20with%20Yen.png" alt="Chart Increasing" width="35" height="35" align="center" /> GitHub activity
+<br />
 
-![Worakan's contribution streak](https://streak-stats.demolab.com?user=omworakarn-maker&hide_border=true&background=FFF0F5&ring=FFB6C1&fire=FF69B4&currStreakLabel=666666&sideLabels=666666&dates=888888&v=20260820)
-![Worakan's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omworakarn-maker&theme=default&v=20260820)
-
----
+<a id="say-hello"></a>
 
 <div align="center">
 
-**☁️ Let's create something beautiful together! ☁️**
+## 💌 Let's make something lovely
 
-<sub>Available for learning opportunities and thoughtful collaborations. 💌</sub>
+I'm open to internships, learning opportunities and thoughtful collaborations.
 
-<br /><br />
+**Have a look around — I'm happy you're here.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=100&section=footer" width="100%" alt="footer" />
+[Explore my portfolio](https://worakan-portfolio1.vercel.app/about) · [Find me on GitHub](https://github.com/omworakarn-maker)
+
+<br />
+
+<img src="./assets/profile-footer.svg" width="100%" alt="Made with curiosity and a little love" />
 
 </div>
