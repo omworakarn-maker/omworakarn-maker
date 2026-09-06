@@ -44,22 +44,61 @@ I enjoy turning ideas into **responsive, functional and friendly web application
 
 <a id="selected-work"></a>
 
+<div align="center">
+
 <h2 align="center">🌷 Things I've been making</h2>
 
 A small collection of websites, apps and ideas I'm bringing to life.
 
-| Project | Built with | Status & links |
-| :--- | :---: | :---: |
-| **Keep Going** ✨ | Coming soon | ![In progress](https://img.shields.io/badge/In_progress-D6B5A0?style=flat-square) |
-| **Todo List** 📋 | Web application | [![Live](https://img.shields.io/badge/Live-D993AD?style=flat-square&logo=vercel&logoColor=white)](https://todolist-green-tau.vercel.app/) [![Code](https://img.shields.io/badge/Code-D6B5A0?style=flat-square&logo=github&logoColor=white)](https://github.com/omworakarn-maker/todolist) |
-| **Cafe Cat** ☕🐈 | Responsive website | [![Live](https://img.shields.io/badge/Live-D993AD?style=flat-square&logo=vercel&logoColor=white)](https://cafecatdemowebsite.vercel.app/) [![Code](https://img.shields.io/badge/Code-D6B5A0?style=flat-square&logo=github&logoColor=white)](https://github.com/omworakarn-maker/cafecatdemowebsite) |
-| **M Cat 031** 📱 | Interactive prototype | [![Figma](https://img.shields.io/badge/Open-D993AD?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&p=f&t=rsnWPM2MoV8mV0UG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4) |
-| **Go with us** 🗺️ | Swift | [![Code](https://img.shields.io/badge/Code-D6B5A0?style=flat-square&logo=github&logoColor=white)](https://github.com/omworakarn-maker/Go-With-Us) |
-| **Portfolio** 🎨 | TypeScript | [![Visit](https://img.shields.io/badge/Visit-D993AD?style=flat-square&logo=vercel&logoColor=white)](https://worakan-portfolio1.vercel.app/about) |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Project</th>
+      <th align="center">Built with</th>
+      <th align="center">Status &amp; links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>Keep Going</strong> ✨</td>
+      <td align="center">Coming soon</td>
+      <td align="center"><img src="https://img.shields.io/badge/In_progress-D6B5A0?style=flat-square" alt="In progress" /></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Todo List</strong> 📋</td>
+      <td align="center">Web application</td>
+      <td align="center"><a href="https://todolist-green-tau.vercel.app/"><img src="https://img.shields.io/badge/Live-D993AD?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Live" /></a> <a href="https://github.com/omworakarn-maker/todolist"><img src="https://img.shields.io/badge/Code-D6B5A0?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Code" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Cafe Cat</strong> ☕🐈</td>
+      <td align="center">Responsive website</td>
+      <td align="center"><a href="https://cafecatdemowebsite.vercel.app/"><img src="https://img.shields.io/badge/Live-D993AD?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Live" /></a> <a href="https://github.com/omworakarn-maker/cafecatdemowebsite"><img src="https://img.shields.io/badge/Code-D6B5A0?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Code" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>M Cat 031</strong> 📱</td>
+      <td align="center">Interactive prototype</td>
+      <td align="center"><a href="https://www.figma.com/proto/kpiZifTnW2jPAZ7XSQjUKD/M-cat-031?node-id=2-4&amp;p=f&amp;t=rsnWPM2MoV8mV0UG-1&amp;scaling=scale-down&amp;content-scaling=fixed&amp;page-id=0%3A1&amp;starting-point-node-id=2%3A4"><img src="https://img.shields.io/badge/Open-D993AD?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Go with us</strong> 🗺️</td>
+      <td align="center">Swift</td>
+      <td align="center"><a href="https://github.com/omworakarn-maker/Go-With-Us"><img src="https://img.shields.io/badge/Code-D6B5A0?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Code" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Portfolio</strong> 🎨</td>
+      <td align="center">TypeScript</td>
+      <td align="center"><a href="https://worakan-portfolio1.vercel.app/about"><img src="https://img.shields.io/badge/Visit-D993AD?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Visit" /></a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 <br />
 
 <a id="my-toolbox"></a>
+
+<div align="center">
 
 <h2 align="center">🎨 My little toolbox</h2>
 
@@ -80,6 +119,8 @@ The technologies I use to turn a blank canvas into something useful.
 <br />
 
 **Things I care about** · Responsive layouts · Clear interactions · REST APIs · Databases · Git workflow
+
+</div>
 
 <br />
 
