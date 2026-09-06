@@ -21,7 +21,7 @@ Building friendly web experiences with React, Next.js and TypeScript.
 
 <a id="about-me"></a>
 
-## 🧸 A little about me
+<h2 align="center"><img src="./assets/heading-about.svg" width="267" alt="A little about me" /></h2>
 
 Hello! I'm **Worakan Pongseelawat**, a Computer Science student at the Faculty of Science and Technology, [Rajamangala University of Technology Suvarnabhumi (RMUTSB)](https://rmutsb.ac.th/en).
 
@@ -46,7 +46,7 @@ I enjoy turning ideas into **responsive, functional and friendly web application
 
 <div align="center">
 
-<h2 align="center">🌷 Things I've been making</h2>
+<h2 align="center"><img src="./assets/heading-work.svg" width="374" alt="Things I've been making" /></h2>
 
 A small collection of websites, apps and ideas I'm bringing to life.
 
@@ -100,7 +100,7 @@ A small collection of websites, apps and ideas I'm bringing to life.
 
 <div align="center">
 
-<h2 align="center">🎨 My little toolbox</h2>
+<h2 align="center"><img src="./assets/heading-toolbox.svg" width="263" alt="My little toolbox" /></h2>
 
 The technologies I use to turn a blank canvas into something useful.
 
@@ -126,7 +126,7 @@ The technologies I use to turn a blank canvas into something useful.
 
 <a id="github-activity"></a>
 
-## 🌱 Growing a little every day
+<h2 align="center"><img src="./assets/heading-activity.svg" width="397" alt="Growing a little every day" /></h2>
 
 Learning, experimenting and making progress, one commit at a time.
 
@@ -146,7 +146,7 @@ Learning, experimenting and making progress, one commit at a time.
 
 <div align="center">
 
-## 💌 Let's make something lovely
+<h2 align="center"><img src="./assets/heading-hello.svg" width="438" alt="Let's make something lovely" /></h2>
 
 I'm open to internships, learning opportunities and thoughtful collaborations.
 
